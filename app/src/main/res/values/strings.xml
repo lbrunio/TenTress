@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">tentress</string>
+    <string name="top">Top Trees</string>
+    <!-- name -->
+    <string name="pine_tree"> Pine Tree</string>
+    <string name="oak_tree"> Oak Tree</string>
+    <string name="birch_tree"> Birch Tree</string>
+    <string name="dragon_tree"> Dragon blood </string>
+    <string name="red_maple_tree"> Red Maple </string>
+    <string name="maple_tree"> Maple Tree</string>
+    <string name="black_willow_tree"> Black Widow </string>
+    <string name="cherry_tree"> Cherry Blossom</string>
+    <string name="angle_oak_tree"> Angle Oak </string>
+    <string name="cedar_elm_tree"> Cedar Elm </string>
+    <string name="info"> Information </string>
+
+    <string name="expand_button_content_description">See more or less information about a tree.</string>
+
+    <!-- description -->
+    <string name="pine_desc"> A pine is any conifer tree or shrub in the genus Pinus, of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae. </string>
+    <string name="oak_desc"> An oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed edges, and a nut called an acorn, borne in a cup. </string>
+    <string name="birch_desc"> A birch is a thin-leaved deciduous hardwood tree of the genus Betula, in the family Betulaceae, which also includes alders, hazels, and hornbeams. </string>
+    <string name="dragon_desc">  It is named after the blood-like color of the red sap that the trees produce. It is considered the national tree of Yemen. </string>
+    <string name="red_desc"> Acer rubrum, the red maple, also known as swamp maple, water maple, or soft maple, is one of the most common and widespread deciduous trees of eastern and central North America. </string>
+    <string name="maple_desc"> Acer is a genus of trees and shrubs commonly known as maples. The genus is placed in the soapberry family, Sapindaceae, along with lychee and horse chestnut. </string>
+    <string name="black_desc"> Salix nigra, the black willow, is a species of willow native to eastern North America, from New Brunswick and southern Ontario west to Minnesota, and south to northern Florida and Texas. </string>
+    <string name="cherry_desc"> The cherry blossom, or sakura, is the flower of trees in Prunus subgenus Cerasus. "Sakura" usually refers to flowers of ornamental cherry trees, such as cultivars of Prunus serrulata, not trees grown for their fruit. </string>
+    <string name="angle_desc"> Quercus virginiana, also known as the southern live oak, is an evergreen oak tree endemic to the Southeastern United States. Though many other species are loosely called live oak. </string>
+    <string name="cedar_desc"> Ulmus crassifolia Nutt., the Texas cedar elm or simply cedar elm, is a deciduous tree native to south-central North America. </string>
+</resources>
